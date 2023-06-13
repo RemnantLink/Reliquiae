@@ -41,7 +41,7 @@ Previous elements that have been integrated into Bitcoin:
 
 
 Additional RPC commands and parameters:
-* [RPC Docs](https://elementsproject.org/en/doc/)
+* [RPC Docs](https://www.reliquiae.org/en/doc/)
 
 License
 -------
